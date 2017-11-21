@@ -1,0 +1,5 @@
+vagrant-stuffs/id_rsa
+.vagrant/
+.idea
+projects/*
+!projects/.gitkeep
